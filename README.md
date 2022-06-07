@@ -44,3 +44,11 @@ query NASASearchQuery {
 
 A debbugger is configured into vscode to debug the application right from the within the running docker container. Be
 sure to install the `Trigger Tasks On Save` vscode extension to use the debugger.
+
+### Thoughts and consclusion
+
+- I liked how I abstracted the third party api through a resolver
+
+- I enjoyed keeping my server file lean and neat
+
+- Proud of my docker remote debugging via vscode. Love it!
