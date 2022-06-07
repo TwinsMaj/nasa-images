@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "restart nasa-images",
+			"type": "shell",
+			"command": "docker compose restart nasa-images",
+			"presentation": {
+				"reveal": "never"
+			}
+		}
+	]
+}
